@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="523a1166-183c-41a9-9acb-ed91b12d2655" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cometchat_shared.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cometchat_shared.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+              <folding>
+                <marker date="1514736000348" expanded="true" signature="89620:89719" ph="select value... cometchat_settings" />
+                <marker date="1514736000348" expanded="true" signature="94150:94176" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94192:94211" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94283:94301" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94349:94375" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94391:94419" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94482:94500" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94599:94625" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94641:94660" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94724:94742" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94790:94816" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94832:94860" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="94931:94949" ph="..." />
+                <marker date="1514736000348" expanded="true" signature="105034:105035" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="integration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="25" column="52" lean-forward="false" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+              <folding>
+                <element signature="e#1383#16757#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="integration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/cometchat_platinium_7.0.2/cometchat_platinium_7.0.2/Integrations/Custom Coded Site/integration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="30" selection-end-column="137" />
+              <folding>
+                <marker date="1362796758000" expanded="true" signature="1864:1938" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+                <marker date="1362796758000" expanded="true" signature="1960:2037" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+                <marker date="1362796758000" expanded="true" signature="4032:4165" ph="select comet... cometchat_status" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5763">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="install.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+              <folding>
+                <element signature="e#270#392#0#PHP" expanded="false" />
+                <element signature="e#299#390#0#PHP" expanded="false" />
+                <element signature="e#349#390#0#PHP" expanded="false" />
+                <element signature="e#394#536#0#PHP" expanded="false" />
+                <element signature="n#iswritable#0;n#!!top" expanded="false" />
+                <element signature="e#657#766#0#PHP" expanded="false" />
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#1526#1573#0#HTML" expanded="false" />
+                <element signature="e#1676#1817#0#HTML" expanded="false" />
+                <element signature="e#1827#2021#0#HTML" expanded="false" />
+                <element signature="e#2037#2057#0#HTML" expanded="false" />
+                <element signature="e#2070#2385#0#HTML" expanded="false" />
+                <element signature="e#2484#2718#0#HTML" expanded="false" />
+                <element signature="e#2738#2776#0#HTML" expanded="false" />
+                <element signature="e#2792#2830#0#HTML" expanded="false" />
+                <element signature="e#2847#2885#0#HTML" expanded="false" />
+                <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#2933#3020#0#HTML" expanded="false" />
+                <element signature="e#3044#3134#0#HTML" expanded="false" />
+                <element signature="e#3149#3430#0#HTML" expanded="false" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#3604#3609#0#PHP" expanded="false" />
+                <marker date="1514736000348" expanded="false" signature="1101:1126" ph="..." />
+                <marker date="1514736000348" expanded="false" signature="1317:1330" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="76" column="63" lean-forward="false" selection-start-line="76" selection-start-column="63" selection-end-line="76" selection-end-column="63" />
+              <folding>
+                <element signature="e#7#392#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ADVANCED</find>
+      <find>MEMCACHE</find>
+      <find>DATABASE</find>
+      <find>DB_SERVER</find>
+      <find>socket_create</find>
+      <find>/cometchat</find>
+      <find>The 'cometchat' folder should be placed at</find>
+      <find>The 'cometchat' folder should be placed at /cometchat</find>
+      <find>$INFO</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/integration.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="771" />
+    <option name="width" value="836" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cometchat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cometchat" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WorkData\cometchat\cometchat" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="523a1166-183c-41a9-9acb-ed91b12d2655" name="Default" comment="" />
+      <created>1522034062207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522034062207</updated>
+      <workItem from="1522034063645" duration="1127000" />
+      <workItem from="1522035248308" duration="5915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7042000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514736000348" expanded="true" signature="0:55" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="57:644" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="645:897" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="899:1143" ph="&lt;IfModule mod_expires.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="1145:1227" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="2214:2316" ph="&lt;IfModule php5_module&gt;" />
+            <marker date="1514736000348" expanded="true" signature="2343:2456" ph="&lt;IfModule mod_php5.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4981">
+          <caret line="308" column="44" lean-forward="false" selection-start-line="308" selection-start-column="36" selection-end-line="308" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/mysql/13.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514736000348" expanded="true" signature="0:55" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="57:644" ph="&lt;IfModule mod_rewrite.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="645:897" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="899:1143" ph="&lt;IfModule mod_expires.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="1145:1227" ph="&lt;IfModule mod_headers.c&gt;" />
+            <marker date="1514736000348" expanded="true" signature="2214:2316" ph="&lt;IfModule php5_module&gt;" />
+            <marker date="1514736000348" expanded="true" signature="2343:2456" ph="&lt;IfModule mod_php5.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EULA.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Integrations/Custom Coded Site/integration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+          <folding>
+            <marker date="1362796758000" expanded="true" signature="1864:1938" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+            <marker date="1362796758000" expanded="true" signature="1960:2037" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+            <marker date="1362796758000" expanded="true" signature="4032:4165" ph="select comet... cometchat_status" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/cometchat_platinium_7.0.2/cometchat_platinium_7.0.2/Integrations/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Integrations/CodeIgniter/integration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1683">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1362796758000" expanded="true" signature="2180:2252" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+            <marker date="1362796758000" expanded="true" signature="2275:2350" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+            <marker date="1362796758000" expanded="true" signature="4440:4573" ph="select comet... cometchat_status" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Integrations/phpFox/integration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1362796758000" expanded="true" signature="2422:2494" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+            <marker date="1362796758000" expanded="true" signature="2517:2593" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+          <folding>
+            <element signature="e#270#392#0#PHP" expanded="false" />
+            <element signature="e#299#390#0#PHP" expanded="false" />
+            <element signature="e#349#390#0#PHP" expanded="false" />
+            <element signature="e#394#536#0#PHP" expanded="false" />
+            <element signature="n#iswritable#0;n#!!top" expanded="false" />
+            <element signature="e#657#766#0#PHP" expanded="false" />
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1526#1573#0#HTML" expanded="false" />
+            <element signature="e#1676#1817#0#HTML" expanded="false" />
+            <element signature="e#1827#2021#0#HTML" expanded="false" />
+            <element signature="e#2037#2057#0#HTML" expanded="false" />
+            <element signature="e#2070#2385#0#HTML" expanded="false" />
+            <element signature="e#2484#2718#0#HTML" expanded="false" />
+            <element signature="e#2738#2776#0#HTML" expanded="false" />
+            <element signature="e#2792#2830#0#HTML" expanded="false" />
+            <element signature="e#2847#2885#0#HTML" expanded="false" />
+            <element signature="n#script#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#2933#3020#0#HTML" expanded="false" />
+            <element signature="e#3044#3134#0#HTML" expanded="false" />
+            <element signature="e#3149#3430#0#HTML" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#3604#3609#0#PHP" expanded="false" />
+            <marker date="1514736000348" expanded="false" signature="1101:1126" ph="..." />
+            <marker date="1514736000348" expanded="false" signature="1317:1330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="76" column="63" lean-forward="false" selection-start-line="76" selection-start-column="63" selection-end-line="76" selection-end-column="63" />
+          <folding>
+            <element signature="e#7#392#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cometchat_shared.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+          <folding>
+            <marker date="1514736000348" expanded="true" signature="89620:89719" ph="select value... cometchat_settings" />
+            <marker date="1514736000348" expanded="true" signature="94150:94176" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94192:94211" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94283:94301" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94349:94375" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94391:94419" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94482:94500" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94599:94625" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94641:94660" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94724:94742" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94790:94816" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94832:94860" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="94931:94949" ph="..." />
+            <marker date="1514736000348" expanded="true" signature="105034:105035" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/cometchat_platinium_7.0.2/cometchat_platinium_7.0.2/Integrations/Custom Coded Site/integration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="30" selection-end-column="137" />
+          <folding>
+            <marker date="1362796758000" expanded="true" signature="1864:1938" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+            <marker date="1362796758000" expanded="true" signature="1960:2037" ph="SELECT * FRO... ${TABLE_PREFIX}" />
+            <marker date="1362796758000" expanded="true" signature="4032:4165" ph="select comet... cometchat_status" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="25" column="52" lean-forward="false" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+          <folding>
+            <element signature="e#1383#16757#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5763">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

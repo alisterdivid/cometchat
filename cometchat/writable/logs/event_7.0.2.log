@@ -1,0 +1,13 @@
+
+ Mar 26 04:38:49 : {"apikey":"068e49a03cc1b1461cac10d35df5e3c7"}
+ Mar 26 04:45:42 : {"plugins":["smilies","clearconversation","avchat"]}
+ Mar 26 04:45:50 : {"plugins":["smilies","clearconversation","avchat","audiochat"]}
+ Mar 26 04:45:54 : {"plugins":["smilies","clearconversation","avchat","audiochat","broadcast"]}
+ Mar 26 04:47:34 : {"ADMIN_USER":"alister11david@gmail.com","old_PASS":"cometchat","ADMIN_PASS":"b38941d6afb3205963d790ff184fb42ffa2eab47","Confirm_PASS":"webadmin123"}
+ Mar 26 05:02:31 : {"BAR_DISABLED":1}
+ Mar 26 05:02:33 : {"BAR_DISABLED":0}
+ Mar 26 05:10:15 : {"crplugins":["style","filetransfer","smilies","audiochat"]}
+ Mar 26 05:10:16 : {"crplugins":["style","filetransfer","smilies","audiochat","avchat"]}
+ Mar 26 05:10:17 : {"crplugins":["style","filetransfer","smilies","audiochat","avchat","broadcast"]}
+ Mar 29 07:17:16 : {"plugins":["smilies","clearconversation","avchat","audiochat","broadcast","chathistory"]}
+ Mar 29 07:17:17 : {"crplugins":["style","filetransfer","smilies","audiochat","avchat","broadcast","chathistory"]}
